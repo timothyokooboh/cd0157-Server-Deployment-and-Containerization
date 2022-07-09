@@ -85,5 +85,11 @@ Completing the project involves several steps:
 5. Create a CodePipeline pipeline triggered by GitHub checkins
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
+Here is a screenshot of build failure
+
+![Screenshot 2022-07-09 at 3 31 31 AM](https://user-images.githubusercontent.com/50742525/178088511-9db0d719-6c79-4927-b133-2c795c3facce.png)
+
+
+
 For more detail about each of these steps, see the project lesson.
 Thank you Jesus.
